@@ -3,27 +3,27 @@ const minerales = [
   {
     nombre: "Diamante",
     descripcion: "El mineral más valioso, usado para herramientas y armaduras avanzadas.",
-    imagen: "images/diamond.png",
+    imagen: "imagenes/diamond.png",
   },
   {
     nombre: "Hierro",
     descripcion: "Muy útil para herramientas y armaduras de nivel intermedio.",
-    imagen: "images/iron.png",
+    imagen: "imagenes/iron.png",
   },
   {
     nombre: "Oro",
     descripcion: "Se utiliza para herramientas, relojes y decoración.",
-    imagen: "images/gold.png",
+    imagen: "imagenes/gold.png",
   },
   {
     nombre: "Carbón",
     descripcion: "Fundamental para crear antorchas y como combustible.",
-    imagen: "images/coal.png",
+    imagen: "imagenes/coal.png",
   },
   {
     nombre: "Redstone",
     descripcion: "Ideal para circuitos y mecanismos.",
-    imagen: "images/redstone.png",
+    imagen: "imagenes/redstone.png",
   },
 ];
 
